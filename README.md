@@ -1,9 +1,9 @@
 # Git-test1
 练习Git1
 
-创建分支
+## 创建分支
 git branch main5
-切换分支 
+## 切换分支 
 git checkout main5
 添加所有工作区的文件到缓存区中
 git add .
