@@ -17,3 +17,4 @@ git push origin HEAD:master
 
 将本地分支上传到一个服务器没有的新分支
 git push --set-upstream origin main5
+git push
